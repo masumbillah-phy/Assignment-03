@@ -7,13 +7,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Anton&family=News+Cycle&family=Oswald:wght@700&family=Passion+One&family=Poppins:wght@700&family=Space+Mono&family=Suez+One&display=swap');
 
 
-body h1,h2,h3{
+#banner{
     font-family: 'Passion One', cursive;
 }
+
 /* navbar */
-#logo{
-    font-size: 50;
-}
 .fa-brands{
    color:white;
 }
