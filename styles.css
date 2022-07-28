@@ -11,7 +11,20 @@
     font-family: 'Passion One', cursive;
 }
 
-/* navbar */
+/* footer social icon color */
 .fa-brands{
    color:white;
 }
+
+/* Media Query for Responsive */
+
+@media only screen and (max-width: 576px) {
+    #trusted{
+        display:none;
+    }
+    #ready-to-join{
+        flex-direction: column;
+    }
+   
+    
+
